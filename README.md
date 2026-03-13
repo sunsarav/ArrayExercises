@@ -63,21 +63,3 @@ Example output:
      9 18 27 36 45 54 63 72 81 90
     10 20 30 40 50 60 70 80 90 100
 
-11. Write a program that ask the user for an integer and repeat that question until user give you a specific value that user already has been told about as a message in your program. Store these values in an array and print that array. After that reverse the array elements so that the first element becomes the last element, the second element becomes the second to last element, etc. Do not just reverse the order in which they are printed. You need to change the way they are stored in the array.
-
-12. Write a program which prints the diagonal elements of a two‑dimensional array.
-
-Example array:
-
-    [1]  2   3
-     2  [4]  6
-     3   6  [9]
-
-Diagonal elements:
-
-    1 4 9
-
-13. Create two arrays with arbitrary size and fill one with random numbers. Then copy over the numbers from the array
-    with random numbers so that the even numbers are located in the rear (the right side) part of the array and the odd
-    numbers are located in the front part (the left side).
-
